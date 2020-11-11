@@ -1,0 +1,4 @@
+Adafruit_DHT
+ipython 
+prometheus_client
+wheel
